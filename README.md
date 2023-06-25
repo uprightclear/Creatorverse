@@ -32,13 +32,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-<video controls>
-  <source src="https://i.imgur.com/6fXxgSs.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+Here's a walkthrough of implemented required features: [Demo](https://i.imgur.com/6fXxgSs.mp4)
 
 
 ## License

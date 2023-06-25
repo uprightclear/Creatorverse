@@ -34,12 +34,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Funny GIF](https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif)
+![Funny GIF]([https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif](https://s3.ifanr.com/wp-content/uploads/2021/09/gif1.gif))
 GIF created with  👉🏼 LiceCap
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 
 ## License

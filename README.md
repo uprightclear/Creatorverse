@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Funny GIF]([https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif](https://s3.ifanr.com/wp-content/uploads/2021/09/gif1.gif))
+<img src="https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif" alt="Demo">
 GIF created with  👉🏼 LiceCap
 
 

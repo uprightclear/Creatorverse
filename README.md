@@ -34,8 +34,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Alt Text](https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif)](https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif)
-GIF created with  👉🏼 LiceCap
+<video controls>
+  <source src="https://i.imgur.com/6fXxgSs.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## License

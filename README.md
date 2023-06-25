@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif" alt="Demo">
+[![Alt Text](https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif)](https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif)
 GIF created with  👉🏼 LiceCap
 
 

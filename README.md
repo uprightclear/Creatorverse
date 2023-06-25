@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![demo](https://i.imgur.com/1ZxlNWE.mp4)
+![demo](https://img.imgtu.org/i/2023/06/25/6498288b0b34a.gif)
 GIF created with  👉🏼 LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
